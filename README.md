@@ -28,6 +28,15 @@ This project analyzes hotel reservation data from **City Hotel** and **Resort Ho
 - 🧠 Strategic business recommendations
 
 ---
+---
+
+## 🖼️ Dashboard Preview
+
+Below is a snapshot of the interactive dashboard generated during the analysis:
+
+<p align="center">
+  <img src="Screenshot 140529" alt="Hotel Booking Dashboard" width="700"/>
+</p>
 
 ## 📁 Dataset
 
